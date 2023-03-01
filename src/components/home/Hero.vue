@@ -53,5 +53,5 @@ import Items from "./Items.vue";
 
   <Category />
 
-  <!-- <Items /> -->
+  <Items />
 </template>

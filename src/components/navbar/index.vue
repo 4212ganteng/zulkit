@@ -14,6 +14,4 @@ import Navlink from "./Navlink.vue";
       <Navlink />
     </div>
   </nav>
-
-  <RouterView />
 </template>
